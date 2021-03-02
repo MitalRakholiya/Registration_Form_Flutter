@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014541129920",
+    "project_id": "registration-page-b1efe",
+    "storage_bucket": "registration-page-b1efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014541129920:android:c35d1dc35508c6549a3525",
+        "android_client_info": {
+          "package_name": "com.humilitycodes.registration_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014541129920-hed36jb60efrr1q9ml2vp0247hnk6vgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUyS9eNAvAdjtK4hweU7uWIHV5y9lL7I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014541129920-hed36jb60efrr1q9ml2vp0247hnk6vgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
